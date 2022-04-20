@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\dell\source\repos\10进制转化为R进制\源.cpp(13,13): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  10进制转化为R进制.vcxproj -> C:\Users\dell\source\repos\10进制转化为R进制\Debug\10进制转化为R进制.exe
